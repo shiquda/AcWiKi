@@ -4,7 +4,7 @@ name: Prettier Markdown Check
 
 on:
   push:
-    branches: [main]
+    branches: [main, actions-test]
   pull_request:
     branches: [main]
 
